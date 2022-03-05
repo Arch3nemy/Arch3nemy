@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍💻: About Me :
+### 👨‍💻 About Me 
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyiv, Ukraine.
 
 - :telescope: I’m currently working as an Android Developer.
@@ -31,5 +31,15 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  
+   <img src="https://miro.medium.com/max/636/1*xa15H2jwq41D2pQ48wTsNw.png" title="Coroutines" alt="Coroutines" width="40" height="40"/>&nbsp;
+  
+   <img src="https://i.ytimg.com/vi/3qZh6Fyrz-k/maxresdefault.jpg"  title="Dagger" alt="Dagger"  width="40" height="40"/>&nbsp;
+   <img src="https://chrynan.codes/content/images/2020/12/untitled-1.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>&nbsp;
+   <img src="https://www.pinclipart.com/picdir/middle/196-1967315_android-jetpack-for-developers-android-jetpack-logo-clipart.png jetpack android width="40" height="40"/>&nbsp;
+   <img src="https://miro.medium.com/max/1154/1*WwO-UjAnQw20FrhCjnp69g.png" title="Clean Architecture" alt="Clean Architecture" width="40" height="40"/>&nbsp;
+ 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchEnemy04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
