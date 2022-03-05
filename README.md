@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ArchEnemy04
-- 👀 I’m interested in kotlin android applications
-- 🌱 I’m currently learning dagger/clean architecture/rxJava
+![image](https://user-images.githubusercontent.com/89665095/156860650-de2984cd-27b6-4177-8d98-801224cdff44.png)
 - 📫 How to reach me throughsomehow@gmail.com | musicalacrity@gmail.com
