@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me 
 I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kyiv, Ukraine.
 
-- :telescope: I’m currently working as an Android Developer.
+- :telescope: I’m currently looking for job as an Android Developer.
 
 - :zap: In my free time, I work on pet projects, listed in this profile.
 
