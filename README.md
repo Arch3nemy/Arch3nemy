@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/arch3nemy/.github/master/resources/git-header.svg" />
 
-- 🌱 I’m currently learning Dart & Flutter(early stages, not ready to apply for a job)
+- 🌱 I’m currently working for Renedes company as Android Developer
 
 - 🌱 I’m currently coding in Kotlin(hardly-ever in java) and having a 2 years of commercial experience
 
