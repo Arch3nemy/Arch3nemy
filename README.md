@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working for Renedes company as Android Developer
 
-- 🌱 I’m currently coding in Kotlin(hardly-ever in java) and having a 2 years of commercial experience
+- 🌱 I’m currently coding in Kotlin(hardly-ever in java) and having a 3 years of commercial experience
 
 - 💬 Feel free to ask me about anything
 
