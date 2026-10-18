@@ -2,6 +2,8 @@
 <p align="center"><b>Android &amp; Kotlin Multiplatform developer</b> · Kyiv, Ukraine 🇺🇦<br/>
 Software engineer at <b>Luxoft</b> · founder of the indie studio <a href="https://alacrity-dev.vercel.app"><b>Alacrity</b></a></p>
 
+<p align="center"><a href="https://alacrity-dev.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Multiplatform+developer;Jetpack+Compose+%C2%B7+Clean+Architecture;Shipping+privacy-first+apps+at+Alacrity" alt="Typing intro"/></a></p>
+
 <p align="center">
   <a href="https://alacrity-dev.vercel.app"><img src="https://img.shields.io/badge/Alacrity-studio-7C3AED?style=for-the-badge" alt="Alacrity"/></a>
   <a href="https://www.linkedin.com/in/vanya-chernukhin-1a180b254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -45,11 +47,28 @@ Software engineer at <b>Luxoft</b> · founder of the indie studio <a href="https
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-### 📊 GitHub activity
+### 🔭 What I bring to a team
+
+<details>
+<summary><b>📱 Product-minded Android engineering</b></summary>
+
+Commercial Android experience at Luxoft, plus four apps designed, built and taken to Google Play end-to-end on my own — from idea and UI design to release, store listing and privacy policy.
+</details>
+
+<details>
+<summary><b>🧩 Kotlin Multiplatform &amp; modern stack</b></summary>
+
+Shared business logic with KMP, UI in Jetpack Compose, coroutines &amp; Flow, modular Gradle builds, offline-first local storage.
+</details>
+
+<details>
+<summary><b>🔒 Privacy &amp; quality by default</b></summary>
+
+Data minimisation, on-device storage where possible, accessible interfaces and clear, honest UX — no dark patterns.
+</details>
+
+<br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arch3nemy&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Arch3nemy&hide_border=true&theme=transparent&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub streak"/>
+  <a href="https://www.linkedin.com/in/vanya-chernukhin-1a180b254/"><img src="https://img.shields.io/badge/Open%20to%20interesting%20Android%20%2F%20KMP%20work-let's%20talk-7C3AED?style=for-the-badge" alt="Let's talk"/></a>
 </p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Arch3nemy&color=7C3AED&style=flat-square&label=Profile+views" alt="Profile views"/></p>
