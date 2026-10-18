@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Ivan Chernukhin. Android engineer and independent maker in Kyiv, Ukraine. Small apps, thoughtfully made.">
-</picture>
+<a href="https://alacrity-dev.vercel.app"><img src="assets/hero.svg" width="100%" alt="Hi, I’m Ivan Chernukhin — Android engineer, independent maker, and curious human. Kotlin / Compose / KMP. Made in Ukraine."></a>
 
 <p align="center">
   <a href="#the-work">Explore the apps</a> &nbsp; / &nbsp;
@@ -13,6 +10,12 @@ I'm **Ivan**, an Android & Kotlin Multiplatform developer from Ukraine. I build 
 
 My independent studio is **[Alacrity](https://alacrity-dev.vercel.app)**. The idea is simple: take one everyday problem, make it easier, and keep the product focused.
 
+## Two places to start ↗
+
+<a href="https://alacrity-dev.vercel.app"><img src="assets/visit-alacrity.svg" width="100%" alt="Explore Alacrity — my independent software studio. alacrity-dev.vercel.app"></a>
+
+<a href="https://miria-xi.vercel.app"><img src="assets/visit-miria.svg" width="100%" alt="Open Miria — wishlists that keep the surprise. miria-xi.vercel.app"></a>
+
 ## The work
 
 Four different problems. The same care for the experience.
@@ -21,7 +24,9 @@ Four different problems. The same care for the experience.
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Miria
+<img src="assets/miria.svg" width="64" height="64" alt="Miria logo">
+
+### Miria
 **Good gifts. Unspoiled surprises.**
 
 Wishlists from any shop, one link to share, and a way for friends to coordinate gifts without giving the surprise away.
@@ -31,7 +36,9 @@ Wishlists from any shop, one link to share, and a way for friends to coordinate 
 </td>
 <td width="50%" valign="top">
 
-### 02 · Velira
+<img src="assets/velira.png" width="64" height="64" alt="Velira logo">
+
+### Velira
 **Teach the lesson. Keep the balance.**
 
 A balance journal for private language tutors: lessons, payments, and a clear answer to “where do we stand?”
@@ -43,7 +50,9 @@ A balance journal for private language tutors: lessons, payments, and a clear an
 <tr>
 <td width="50%" valign="top">
 
-### 03 · Solia
+<img src="assets/solia.svg" width="64" height="64" alt="Solia logo">
+
+### Solia
 **Less admin. More behind the lens.**
 
 A booking and shoot-day companion for wedding photographers, bringing jobs, contracts, invoices, and call sheets together.
@@ -53,7 +62,9 @@ A booking and shoot-day companion for wedding photographers, bringing jobs, cont
 </td>
 <td width="50%" valign="top">
 
-### 04 · Liora
+<img src="assets/liora.svg" width="64" height="64" alt="Liora logo">
+
+### Liora
 **Clear feedback. Clear boundaries.**
 
 Client reviews and scope control for independent creatives: share a version, keep revisions in focus, and agree on extra work.
@@ -75,6 +86,13 @@ Client reviews and scope control for independent creatives: share a version, kee
 </details>
 
 ## Under the hood
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=101524" alt="Android">
+  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Multiplatform-FF657A?style=for-the-badge&amp;logo=kotlin&amp;logoColor=101524" alt="Kotlin Multiplatform">
+</p>
 
 **Kotlin** is home. **Compose** is the canvas. **Multiplatform** connects the pieces.
 

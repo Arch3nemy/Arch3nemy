@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img"><title>Ivan Chernukhin — code, curiosity and colorful ideas</title><defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#24324C" stroke-width="1"/></pattern><linearGradient id="glow" x2="1" y2="1"><stop stop-color="#13233D"/><stop offset="1" stop-color="#101524"/></linearGradient></defs><rect width="960" height="440" rx="28" fill="url(#glow)"/><rect width="960" height="440" rx="28" fill="url(#grid)"/><path d="M0 409L960 369V440H0" fill="#BDFF5B"/><circle cx="902" cy="47" r="74" fill="#FF657A"/><path d="M882 25v44m-22-22h44" stroke="#101524" stroke-width="10"/>
+<rect x="34" y="32" width="235" height="34" rx="17" fill="#26354A"/><circle cx="53" cy="49" r="5" fill="#BDFF5B"/><text x="68" y="55" fill="#D4E1F5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">HELLO, INTERNET. I’M</text><text x="32" y="158" fill="#6DE6FF" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900">IVAN</text><text x="36" y="214" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="900">CHERNUKHIN</text><text x="38" y="266" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Android engineer.</text><text x="38" y="301" fill="#D4E1F5" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Independent maker. Curious human.</text><rect x="38" y="330" width="310" height="36" rx="8" fill="#FFCA57"/><text x="53" y="354" fill="#101524" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">KOTLIN  /  COMPOSE  /  KMP</text><g transform="translate(608 96) rotate(6 135 115)"><rect x="8" y="10" width="270" height="232" rx="18" fill="#6DE6FF"/><rect width="270" height="232" rx="18" fill="#0B1220" stroke="#FFFFFF" stroke-width="3"/><path d="M0 39h270" stroke="#FFFFFF" stroke-width="2"/><circle cx="20" cy="20" r="5" fill="#FF657A"/><circle cx="39" cy="20" r="5" fill="#FFCA57"/><circle cx="58" cy="20" r="5" fill="#BDFF5B"/><text x="18" y="75" fill="#6DE6FF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">fun buildSomething() {</text><text x="18" y="112" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">  idea → design</text><text x="18" y="144" fill="#BDFF5B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">       → code → ship</text><text x="18" y="177" fill="#6DE6FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">}</text><text x="18" y="211" fill="#FFCA57" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">// made in Ukraine</text></g><rect x="525" y="57" width="72" height="72" rx="20" fill="#FFFFFF" transform="rotate(-12 561 93)"/><svg width="52" height="52" x="535" y="67" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Miria">
+  <!-- The ribbon: two loops in one violet family, tied at an ink knot. The
+       Android launcher icon is the same geometry (mobile/androidApp, drawable
+       ic_launcher_foreground.xml) — change both or neither. -->
+  <rect rx="11" fill="#FFFFFF" />
+  <g transform="translate(24 23) scale(0.325)">
+    <path d="M0 0 C -14 -26, -44 -30, -44 -10 C -44 6, -18 8, 0 0 Z" fill="#6247E0" />
+    <path d="M0 0 C 14 -26, 44 -30, 44 -10 C 44 6, 18 8, 0 0 Z" fill="#8E78E9" />
+    <path d="M0 0 C -6 12, -14 22, -22 30" fill="none" stroke="#6247E0" stroke-width="9" stroke-linecap="round" />
+    <path d="M0 0 C 6 12, 14 22, 22 30" fill="none" stroke="#8E78E9" stroke-width="9" stroke-linecap="round" />
+    <circle cx="0" cy="0" r="6.5" fill="#101014" />
+  </g>
+</svg>
+<rect x="810" y="295" width="80" height="80" rx="24" fill="#FFFFFF"/><svg width="56" height="56" x="822" y="307" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect rx="8" fill="#101014"/>
+  <g transform="translate(7 7) rotate(8 9 9)">
+    <rect width="8" height="8" rx="2.2" fill="#6247E0"/><rect x="10" width="8" height="8" rx="2.2" fill="#8E78E9"/>
+    <rect y="10" width="8" height="8" rx="2.2" fill="#D94E68"/><rect x="10" y="10" width="8" height="8" rx="2.2" fill="#2F9BA6"/>
+  </g>
+</svg>
+<path d="M548 286l9 22 22 9-22 9-9 22-9-22-22-9 22-9z" fill="#FFCA57"/><text x="38" y="426" fill="#101524" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">SMALL APPS. BIG ATTENTION TO DETAIL.</text></svg>
