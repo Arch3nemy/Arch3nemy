@@ -19,16 +19,66 @@ Software engineer at <b>Luxoft</b> · founder of the indie studio <a href="https
 - 🌙 By night: designing and shipping small, privacy-first products under **Alacrity**
 - 🎯 I care about clean architecture, accessible UI and apps that respect people's data
 
-### ✨ Alacrity — small apps, thoughtfully made
+<br/>
 
-| App | What it does | Status |
-|---|---|---|
-| 🎁 **Miria** | A wishlist that keeps the surprise — share one link, friends coordinate gifts without spoiling it | ![](https://img.shields.io/badge/Google%20Play-live-34A853?logo=googleplay&logoColor=white) |
-| 📸 **Solia** | Private booking &amp; shoot-day companion for wedding photographers — data stays on device | ![](https://img.shields.io/badge/Release-prep-F59E0B) |
-| 🎨 **Liora** | Client reviews &amp; scope control for independent creatives | ![](https://img.shields.io/badge/Google%20Play-in%20review-3B82F6?logo=googleplay&logoColor=white) |
-| 📚 **Velira** | Balance journal for private language tutors — who paid, what's left, who owes | ![](https://img.shields.io/badge/Android-coming%20soon-8B5CF6?logo=android&logoColor=white) |
+<div align="center">
+<a href="https://alacrity-dev.vercel.app"><img src="https://alacrity-dev.vercel.app/favicon.svg" width="72" height="72" alt="Alacrity"/></a>
 
-🌐 Studio site: [alacrity-dev.vercel.app](https://alacrity-dev.vercel.app) ([source](https://github.com/Arch3nemy/alacrity-site)) · Privacy policies: [Miria](https://github.com/Arch3nemy/miria-privacy) · [Solia](https://github.com/Arch3nemy/solia-privacy) · [Velira](https://github.com/Arch3nemy/velira-privacy)
+## Alacrity — independent software studio
+<i>Small apps, thoughtfully made. Focused · private by design · built to last.</i>
+
+<br/><br/>
+<a href="https://alacrity-dev.vercel.app"><img src="https://img.shields.io/badge/🌐%20Visit%20alacrity--dev.vercel.app-7C3AED?style=for-the-badge" alt="Visit Alacrity"/></a>
+&nbsp;
+<a href="https://github.com/Arch3nemy/alacrity-site"><img src="https://img.shields.io/badge/Site%20source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Site source"/></a>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://alacrity-dev.vercel.app/assets/miria.svg" width="56" height="56" align="left" alt="Miria"/>
+<h3>&nbsp;Miria</h3>
+&nbsp;<sub><i>Wishlists that keep the surprise</i></sub>
+<br clear="left"/><br/>
+Add gifts from any shop, share one link — friends coordinate presents without spoiling the plan for the list owner.<br/><br/>
+<img src="https://img.shields.io/badge/Google%20Play-live-34A853?style=flat-square&logo=googleplay&logoColor=white"/><br/>
+🌐 <a href="https://miria-xi.vercel.app"><b>miria-xi.vercel.app</b></a> · <a href="https://play.google.com/store/apps/details?id=com.alacrity.miria">Google Play</a> · <a href="https://arch3nemy.github.io/miria-privacy/">Privacy</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://alacrity-dev.vercel.app/assets/velira.png" width="56" height="56" align="left" alt="Velira"/>
+<h3>&nbsp;Velira</h3>
+&nbsp;<sub><i>Balance journal for language tutors</i></sub>
+<br clear="left"/><br/>
+One tap after each lesson keeps track of who has paid, what is left and who owes you — with a reminder when the lesson ends.<br/><br/>
+<img src="https://img.shields.io/badge/Android-coming%20soon-8B5CF6?style=flat-square&logo=android&logoColor=white"/><br/>
+🌐 <a href="https://velira-nine.vercel.app">velira-nine.vercel.app</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://alacrity-dev.vercel.app/assets/solia.svg" width="56" height="56" align="left" alt="Solia"/>
+<h3>&nbsp;Solia</h3>
+&nbsp;<sub><i>Shoot-day companion for photographers</i></sub>
+<br clear="left"/><br/>
+Private, mobile-first bookings, contracts, invoices and call sheets for wedding photographers — everything stays on the device.<br/><br/>
+<img src="https://img.shields.io/badge/Release-in%20preparation-F59E0B?style=flat-square"/><br/>
+<a href="https://arch3nemy.github.io/solia-privacy/">Privacy</a>
+</td>
+<td width="50%" valign="top">
+<img src="https://alacrity-dev.vercel.app/assets/liora.svg" width="56" height="56" align="left" alt="Liora"/>
+<h3>&nbsp;Liora</h3>
+&nbsp;<sub><i>Client reviews &amp; scope control</i></sub>
+<br clear="left"/><br/>
+Share each version by link, keep revisions to the agreed rounds and get extra work approved before starting it.<br/><br/>
+<img src="https://img.shields.io/badge/Google%20Play-in%20review-3B82F6?style=flat-square&logo=googleplay&logoColor=white"/><br/>
+<a href="https://liora-864c6.web.app/privacy">Privacy</a> · <a href="https://liora-864c6.web.app/terms">Terms</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ### 🛠️ Tech stack
 
