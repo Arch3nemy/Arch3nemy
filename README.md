@@ -41,9 +41,9 @@ Wishlists from any shop, one link to share, and a way for friends to coordinate 
 ### Velira
 **Teach the lesson. Keep the balance.**
 
-A balance journal for private language tutors: lessons, payments, and a clear answer to “where do we stand?”
+A private tutor can mark a lesson, check how many prepaid lessons a student has left, and share the balance with them.
 
-[Explore Velira ↗](https://velira-nine.vercel.app)
+[Get Velira on Android ↗](https://play.google.com/store/apps/details?id=com.alacrity.velira&utm_source=github_profile) · [Free tutor spreadsheet in Ukrainian ↗](https://velira-nine.vercel.app/uk/tablytsia-obliku-uchniv)
 
 </td>
 </tr>
